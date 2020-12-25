@@ -1,4 +1,4 @@
-# Problem Statement : Bakery Packagaes & Cost
+# Problem Statement : Bakery Packages & Cost
 
 ## Background:
 A bakery used to base the price of their produce on an individual item cost. So if a customer ordered
