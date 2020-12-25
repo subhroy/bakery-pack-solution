@@ -30,14 +30,16 @@ product code. An example input:
 ## Output:
 A successfully passing test(s) that demonstrates the following output:<br>
 
-10 VS5 $17.98 --> <br>
-        2 x 5 $8.99 <br><br>
-14 MB11 $54.8--> <br>
-        1 x 8 $24.95<br>
-        3 x 2 $9.95<br><br>
-13 CF $25.85 --> <br>
-        2 x 5 $9.95<br>
-        1 x 3 $5.95
+10 VS5 $17.98 <br>
+&emsp;&emsp; 2 x 5 $8.99 <br><br>
+
+14 MB11 $54.8 <br>
+&emsp;&emsp;  1 x 8 $24.95<br>
+&emsp;&emsp;  3 x 2 $9.95<br><br>
+        
+13 CF $25.85 <br>
+&emsp;&emsp;  2 x 5 $9.95<br>
+&emsp;&emsp;  1 x 3 $5.95
         
         
 ### Advice:
